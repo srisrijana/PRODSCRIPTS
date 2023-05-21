@@ -1,3 +1,4 @@
+#! /bin/bash
 echo "script argument list"
 echo "\$* value=$*"
 echo "\$@ value=$@"
