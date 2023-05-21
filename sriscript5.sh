@@ -9,4 +9,3 @@ echo "\$4 value=$4"
 echo "\$5 value=$5"
 echo "\$# value=$# my arguments"
 echo "\$$ value=$$"
-
